@@ -1,0 +1,14 @@
+{
+  "name": "smart-grid-config.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node smart-grid-config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "smart-grid": "^2.1.2"
+  }
+}
